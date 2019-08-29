@@ -1,0 +1,4 @@
+{
+    "npm-scripts.showStartNotification": false,
+    "prettier.singleQuote": true
+}
